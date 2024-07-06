@@ -181,7 +181,7 @@ const CONFIG = {
 
   STARTER_FAQ_1_QUESTION: 'It is free?',
   STARTER_FAQ_1_ANSWER:
-    'Yes, it's free, ad-free, and open source.',
+    'Yes, it is free, ad-free, and open source.',
 
   STARTER_FAQ_2_QUESTION: 'Why is it so safe?',
   STARTER_FAQ_2_ANSWER:
