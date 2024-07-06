@@ -342,7 +342,7 @@ const CONFIG = {
         {
           TITLE: 'Press and Media',
           URL: ''
-        }
+        },
         {
           TITLE: 'Events',
           URL: '/events'
