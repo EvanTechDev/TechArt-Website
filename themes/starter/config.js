@@ -298,7 +298,8 @@ const CONFIG = {
       TITLE: 'Products',
       LINK_GROUP: [
         {
-          TITLE: 'Air Captcha',              URL: '/post/air-captcha' 
+          TITLE: 'Air Captcha',
+          URL: '/post/air-captcha' 
         },
         {
           TITLE: 'Air Pass',
@@ -326,7 +327,8 @@ const CONFIG = {
           URL: 'https://x.com/TechArt_Dev'
         },
         { 
-          TITLE: 'Open Source',              URL: '/open-source'
+          TITLE: 'Open Source', 
+          URL: '/open-source'
         },
         {
           TITLE: 'Investor',
