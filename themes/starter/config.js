@@ -42,7 +42,7 @@ const CONFIG = {
   STARTER_FEATURE_1_BUTTON_URL: '', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: 'Safe', // 特性2
-  STARTER_FEATURE_2_TEXT_1: 'It's very secure, uses end-to-end encryption, and the developers cannot view your data.', // 特性2
+  STARTER_FEATURE_2_TEXT_1: 'It is very secure, uses end-to-end encryption, and the developers cannot view your data.', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
     '', // 特性2
