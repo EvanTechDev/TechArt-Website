@@ -229,23 +229,23 @@ const CONFIG = {
 
   // 博客文章区块
   STARTER_BLOG_ENABLE: true, // 首页博文区块开关
-  STARTER_BLOG_TITLE: '我们的博客',
+  STARTER_BLOG_TITLE: 'Our Blog',
   STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
-  STARTER_BLOG_TEXT_1: '最近的新闻',
+  STARTER_BLOG_TEXT_1: 'Press and Media',
   STARTER_BLOG_TEXT_2:
-    '这里会发布一些关于NotionNext的最新动态，包括新的动向、新的未来计划，以及新功能的特性',
+    'Here we will release the latest news about Tech-Art Studio, including new trends, new future plans, and new features.',
 
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
-  STARTER_CONTACT_TITLE: '联系我们',
-  STARTER_CONTACT_TEXT: '告诉我们您遇到的问题',
-  STARTER_CONTACT_LOCATION_TITLE: '我们的位置',
-  STARTER_CONTACT_LOCATION_TEXT: '中国，福建',
-  STARTER_CONTACT_EMAIL_TITLE: '我们如何帮助您？',
-  STARTER_CONTACT_EMAIL_TEXT: 'mail@tangly1024.com',
+  STARTER_CONTACT_TITLE: 'Contact us',
+  STARTER_CONTACT_TEXT: 'Tell us about your problem',
+  STARTER_CONTACT_LOCATION_TITLE: 'Our Position',
+  STARTER_CONTACT_LOCATION_TEXT: 'China',
+  STARTER_CONTACT_EMAIL_TITLE: 'How can we help you?',
+  STARTER_CONTACT_EMAIL_TEXT: 'www@xyehr.cn',
 
   // 嵌入外部表单
-  STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/yfctc7', // 基于NoteForm创建，将留言数据存在Notion中
+  STARTER_CONTACT_MSG_EXTERNAL_URL: '', // 基于NoteForm创建，将留言数据存在Notion中
   //   自定义留言表单，以下几个配置暂时废弃
   //   STARTER_CONTACT_MSG_TITLE: '向我们留言',
   //   STARTER_CONTACT_MSG_NAME: '姓名',
@@ -256,7 +256,7 @@ const CONFIG = {
   //   STARTER_CONTACT_MSG_THANKS: '感谢您的留言',
 
   // 合作伙伴的图标
-  STARTER_BRANDS_ENABLE: true, // 合作伙伴开关
+  STARTER_BRANDS_ENABLE: false, // 合作伙伴开关
   STARTER_BRANDS: [
     {
       IMAGE: '/images/starter/brands/graygrids.svg',
@@ -290,68 +290,87 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: '我们通过技术为品牌和公司创造数字体验。',
+  STARTER_FOOTER_SLOGAN: 'Protecting privacy from the root.',
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
     {
-      TITLE: '关于我们',
+      TITLE: 'Products',
       LINK_GROUP: [
-        { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '操作文档', URL: 'https://docs.tangly1024.com/about' },
         {
-          TITLE: '帮助支持',
-          URL: 'https://docs.tangly1024.com/article/how-to-question'
+          TITLE: 'Air Captcha',              URL: '/post/air-captcha' 
         },
         {
-          TITLE: '合作申请',
-          URL: 'https://docs.tangly1024.com/article/my-service'
+          TITLE: 'Air Pass',
+          URL: '/'
+        },
+        {
+          TITLE: '',
+          URL: ''
+        },
+        {
+          TITLE: 'Minecraft Python Edition',
+          URL: ''
         }
       ]
     },
     {
-      TITLE: '功能特性',
+      TITLE: 'Team',
       LINK_GROUP: [
         {
-          TITLE: '部署指南',
-          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
+          TITLE: 'About us',
+          URL: '/about'
         },
         {
-          TITLE: '升级指南',
-          URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
+          TITLE: 'Developer Center',
+          URL: 'https://x.com/TechArt_Dev'
         },
-        { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
+        { 
+          TITLE: 'Open Source',              URL: '/open-source'
+        },
+        {
+          TITLE: 'Investor',
+          URL: '/investor'
+        }
       ]
     },
     {
-      TITLE: 'Notion写作',
+      TITLE: 'Contact us',
       LINK_GROUP: [
         {
-          TITLE: 'Notion开始写作',
-          URL: 'https://docs.tangly1024.com/article/start-to-write'
+          TITLE: 'Press and Media',
+          URL: ''
+        }
+        {
+          TITLE: 'Events',
+          URL: '/events'
         },
         {
-          TITLE: '快捷键提升效率',
-          URL: 'https://docs.tangly1024.com/article/notion-short-key'
+          TITLE: 'Contact us',
+          URL: '/contact-us'
         },
         {
-          TITLE: '中国大陆使用Notion',
-          URL: 'https://docs.tangly1024.com/article/notion-faster'
+          TITLE: 'Help & Docs',
+          URL: 'https://help.xyehr.cn/'
+        },
+        {
+          TITLE: 'Online Help',
+          URL: 'https://x.com/TechArt_Sup'
         }
       ]
     }
   ],
 
-  STARTER_FOOTER_BLOG_LATEST_TITLE: '最新文章',
+  STARTER_FOOTER_BLOG_LATEST_TITLE: 'Laster Post',
 
-  STARTER_FOOTER_PRIVACY_POLICY_TEXT: '隐私政策',
-  STARTER_FOOTER_PRIVACY_POLICY_URL: '/privacy-policy',
+  // STARTER_FOOTER_PRIVACY_POLICY_TEXT: '隐私政策',
+  // STARTER_FOOTER_PRIVACY_POLICY_URL: '/privacy-policy',
 
-  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: '法律声明',
-  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL: '/legacy-notice',
+  // STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: '法律声明',
+  // // STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL: '/legacy-notice',
 
-  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: '服务协议',
-  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: '/terms-of-use',
+  // STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: '服务协议',
+  // STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: '/terms-of-use',
 
   // 404页面的提示语
   STARTER_404_TITLE: '我们似乎找不到您要找的页面。',
