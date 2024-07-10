@@ -11,7 +11,7 @@ const Style = () => {
   #theme-starter .sticky{
     position: fixed;
     z-index: 9999;
-    background-color: rgb(255 255 255 / 0.8);
+    background-color: rgb(0 102 255 / 0.8);
     transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
     transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
     transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter, -webkit-backdrop-filter;
