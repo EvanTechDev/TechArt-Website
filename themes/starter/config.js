@@ -301,13 +301,9 @@ const CONFIG = {
           URL: '/'
         },
         {
-          TITLE: 'Air Notepad',
+          TITLE: 'Air Notes',
           URL: ''
         },
-        {
-          TITLE: 'Air To-do',
-          URL: ''
-        }
         {
           TITLE: 'Minecraft Python Edition',
           URL: ''
