@@ -336,7 +336,7 @@ const CONFIG = {
       LINK_GROUP: [
         {
           TITLE: 'Press and Media',
-          URL: ''
+          URL: '/archive'
         },
         {
           TITLE: 'Events',
