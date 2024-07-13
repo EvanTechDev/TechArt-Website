@@ -240,7 +240,7 @@ const CONFIG = {
   STARTER_CONTACT_EMAIL_TEXT: 'www@xyehr.cn',
 
   // 嵌入外部表单
-  STARTER_CONTACT_MSG_EXTERNAL_URL: '', // 基于NoteForm创建，将留言数据存在Notion中
+  STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://airtable.com/embed/app4kvVeOe2p7NIIf/pagTgearHfOHwZDOk/form', // 基于NoteForm创建，将留言数据存在Notion中
   //   自定义留言表单，以下几个配置暂时废弃
   //   STARTER_CONTACT_MSG_TITLE: '向我们留言',
   //   STARTER_CONTACT_MSG_NAME: '姓名',
