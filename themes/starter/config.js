@@ -293,15 +293,15 @@ const CONFIG = {
       TITLE: 'Products',
       LINK_GROUP: [
         {
-          TITLE: 'Air Captcha',
+          TITLE: 'One Captcha',
           URL: '/post/air-captcha' 
         },
         {
-          TITLE: 'Air Pass',
+          TITLE: 'One Pass',
           URL: '/'
         },
         {
-          TITLE: 'Air Notes',
+          TITLE: 'Easy Notes',
           URL: ''
         },
         {
@@ -332,7 +332,7 @@ const CONFIG = {
       ]
     },
     {
-      TITLE: 'Contact us',
+      TITLE: 'Resource',
       LINK_GROUP: [
         {
           TITLE: 'Press and Media',
