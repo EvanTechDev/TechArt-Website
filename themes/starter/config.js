@@ -326,8 +326,8 @@ const CONFIG = {
           URL: '/open-source'
         },
         {
-          TITLE: 'Investor',
-          URL: '/investor'
+          TITLE: 'Sponsor',
+          URL: '/sponsor'
         }
       ]
     },
