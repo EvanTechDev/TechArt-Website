@@ -234,7 +234,7 @@ const CONFIG = {
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
   STARTER_CONTACT_TITLE: 'Contact us',
   STARTER_CONTACT_TEXT: 'Tell us about your problem',
-  STARTER_CONTACT_LOCATION_TITLE: 'Our Position',
+  STARTER_CONTACT_LOCATION_TITLE: 'Our Location',
   STARTER_CONTACT_LOCATION_TEXT: 'China',
   STARTER_CONTACT_EMAIL_TITLE: 'How can we help you?',
   STARTER_CONTACT_EMAIL_TEXT: 'www@xyehr.cn',
