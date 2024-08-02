@@ -62,8 +62,8 @@ const CONFIG = {
   STARTER_ABOUT_TITLE: 'What is Tech-Art?',
   STARTER_ABOUT_TEXT:
     'Tech-Art is a studio founded in China whose main mission is to help protect your privacy.',
-  STARTER_ABOUT_BUTTON_TEXT: '',
-  STARTER_ABOUT_BUTTON_URL: '',
+  // STARTER_ABOUT_BUTTON_TEXT: '',
+  // STARTER_ABOUT_BUTTON_URL: '',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: 'Safe',
@@ -355,8 +355,8 @@ const CONFIG = {
 
   STARTER_FOOTER_BLOG_LATEST_TITLE: 'Laster Post',
 
-  // STARTER_FOOTER_PRIVACY_POLICY_TEXT: '隐私政策',
-  // STARTER_FOOTER_PRIVACY_POLICY_URL: '/privacy-policy',
+  STARTER_FOOTER_PRIVACY_POLICY_TEXT: 'GDPR',
+  STARTER_FOOTER_PRIVACY_POLICY_URL: '/GDPR',
 
   // STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: '法律声明',
   // // STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL: '/legacy-notice',
