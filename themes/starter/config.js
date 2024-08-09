@@ -62,8 +62,8 @@ const CONFIG = {
   STARTER_ABOUT_TITLE: 'What is Tech-Art?',
   STARTER_ABOUT_TEXT:
     'Tech-Art is a studio founded in China whose main mission is to help protect your privacy.',
-  // STARTER_ABOUT_BUTTON_TEXT: '',
-  // STARTER_ABOUT_BUTTON_URL: '',
+  STARTER_ABOUT_BUTTON_TEXT: 'Learn more',
+  STARTER_ABOUT_BUTTON_URL: '/about',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: 'Safe',
