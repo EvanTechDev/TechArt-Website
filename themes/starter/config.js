@@ -3,7 +3,7 @@
  */
 const CONFIG = {
   // 默认只展示Logo文字，如果设置了logo图片，会在文字左侧显示图标
-  STARTER_LOGO: '', // 普通logo图片 示例：/images/starter/logo/logo.svg
+  STARTER_LOGO: 'https://cdn.xyehr.cn/images/Tech-Art-Studio.png', // 普通logo图片 示例：/images/starter/logo/logo.svg
   STARTER_LOGO_WHITE: '', // 透明底浅色logo 示例： /images/starter/logo/logo-white.svg
 
   // MENU ， 菜单部分不在此处配置，请在Notion数据库中添加MENU
@@ -62,8 +62,8 @@ const CONFIG = {
   STARTER_ABOUT_TITLE: 'What is Tech-Art?',
   STARTER_ABOUT_TEXT:
     'Tech-Art is a studio founded in China whose main mission is to help protect your privacy.',
-  // STARTER_ABOUT_BUTTON_TEXT: '',
-  // STARTER_ABOUT_BUTTON_URL: '',
+  STARTER_ABOUT_BUTTON_TEXT: 'Learn more',
+  STARTER_ABOUT_BUTTON_URL: '/about',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: 'Safe',
@@ -353,7 +353,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_BLOG_LATEST_TITLE: 'Laster Post',
+  STARTER_FOOTER_BLOG_LATEST_TITLE: 'Latest Post',
 
   STARTER_FOOTER_PRIVACY_POLICY_TEXT: 'Privacy Policy',
   STARTER_FOOTER_PRIVACY_POLICY_URL: '/Privacy-Policy',
