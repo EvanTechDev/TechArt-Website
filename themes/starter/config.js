@@ -71,17 +71,17 @@ const CONFIG = {
   STARTER_ABOUT_TIPS_3: 'and free.',
 
   // 首页价格区块
-  STARTER_PRICING_ENABLE: false, // 价格区块开关
-  STARTER_PRICING_TITLE: '价格表',
-  STARTER_PRICING_TEXT_1: '很棒的定价计划',
+  STARTER_PRICING_ENABLE: true, // 价格区块开关
+  STARTER_PRICING_TITLE: 'Learn about our pricing',
+  STARTER_PRICING_TEXT_1: 'Upgrade',
   STARTER_PRICING_TEXT_2:
-    '我们制定了灵活的付费模式，您可以按需选择。（NotionNext免费开源，这里仅演示产品订阅付费功能，请勿下单购买！）',
+    'We have developed a flexible payment model, you can choose according to your needs.',
 
-  STARTER_PRICING_1_TITLE: '入门版',
-  STARTER_PRICING_1_PRICE: '19.9',
+  STARTER_PRICING_1_TITLE: 'Team Essentials',
+  STARTER_PRICING_1_PRICE: '12.99',
   STARTER_PRICING_1_PRICE_CURRENCY: '$',
-  STARTER_PRICING_1_PRICE_PERIOD: '每月',
-  STARTER_PRICING_1_HEADER: '功能点',
+  STARTER_PRICING_1_PRICE_PERIOD: 'month',
+  STARTER_PRICING_1_HEADER: 'Function',
   STARTER_PRICING_1_FEATURES: '所有的主题,免费更新,帮助手册', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_1_BUTTON_URL:
