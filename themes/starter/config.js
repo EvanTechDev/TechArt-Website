@@ -78,20 +78,20 @@ const CONFIG = {
     'We have developed a flexible payment model, you can choose according to your needs.',
 
   STARTER_PRICING_1_TITLE: 'Team Essentials',
-  STARTER_PRICING_1_PRICE: '12.99',
+  STARTER_PRICING_1_PRICE: '6.99',
   STARTER_PRICING_1_PRICE_CURRENCY: '$',
   STARTER_PRICING_1_PRICE_PERIOD: 'month',
   STARTER_PRICING_1_HEADER: 'Function',
-  STARTER_PRICING_1_FEATURES: '所有的主题,免费更新,帮助手册', // 英文逗号隔开
-  STARTER_PRICING_1_BUTTON_TEXT: '立即购买',
+  STARTER_PRICING_1_FEATURES: 'Secure storage,One Captcha first trial,One Calendar first trial, Easy Note,priority customer service', // 英文逗号隔开
+  STARTER_PRICING_1_BUTTON_TEXT: 'Activate Team Essentials',
   STARTER_PRICING_1_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
+    '',
 
-  STARTER_PRICING_2_TAG: '推荐',
-  STARTER_PRICING_2_TITLE: '基础版',
-  STARTER_PRICING_2_PRICE: '39.9',
+  STARTER_PRICING_2_TAG: 'Recommend',
+  STARTER_PRICING_2_TITLE: 'Team Professional',
+  STARTER_PRICING_2_PRICE: '9.99',
   STARTER_PRICING_2_PRICE_CURRENCY: '$',
-  STARTER_PRICING_2_PRICE_PERIOD: '每月',
+  STARTER_PRICING_2_PRICE_PERIOD: 'month',
   STARTER_PRICING_2_HEADER: '功能点',
   STARTER_PRICING_2_FEATURES: '包含入门版,项目源码,内部社群,技术咨询,SEO优化', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: '立即购买',
