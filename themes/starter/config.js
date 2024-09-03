@@ -82,7 +82,7 @@ const CONFIG = {
   STARTER_PRICING_1_PRICE_CURRENCY: '$',
   STARTER_PRICING_1_PRICE_PERIOD: 'month',
   STARTER_PRICING_1_HEADER: 'Function',
-  STARTER_PRICING_1_FEATURES: 'Secure storage,One Captcha first trial,One Calendar first trial, Easy Note,priority customer service', // 英文逗号隔开
+  STARTER_PRICING_1_FEATURES: 'Secure storage,One Captcha Early Access,One Calendar Early Access, Easy Note,priority customer service', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: 'Activate Team Essentials',
   STARTER_PRICING_1_BUTTON_URL:
     '',
@@ -92,21 +92,21 @@ const CONFIG = {
   STARTER_PRICING_2_PRICE: '9.99',
   STARTER_PRICING_2_PRICE_CURRENCY: '$',
   STARTER_PRICING_2_PRICE_PERIOD: 'month',
-  STARTER_PRICING_2_HEADER: '功能点',
-  STARTER_PRICING_2_FEATURES: '包含入门版,项目源码,内部社群,技术咨询,SEO优化', // 英文逗号隔开
-  STARTER_PRICING_2_BUTTON_TEXT: '立即购买',
+  STARTER_PRICING_2_HEADER: 'Function',
+  STARTER_PRICING_2_FEATURES: 'Secure Storage,Plus Plan,One Captcha Early Access,One Calendar Early Access,Easy Note,Priority Support,Secure Core Server', // 英文逗号隔开
+  STARTER_PRICING_2_BUTTON_TEXT: 'Activate Team Professional',
   STARTER_PRICING_2_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
+    '',
 
-  STARTER_PRICING_3_TITLE: '高级版',
-  STARTER_PRICING_3_PRICE: '59.9',
+  STARTER_PRICING_3_TITLE: 'Team Advanced',
+  STARTER_PRICING_3_PRICE: '12.99',
   STARTER_PRICING_3_PRICE_CURRENCY: '$',
-  STARTER_PRICING_3_PRICE_PERIOD: '每月',
-  STARTER_PRICING_3_HEADER: '功能点',
-  STARTER_PRICING_3_FEATURES: '包含基础版,功能定制开发', // 英文逗号隔开
-  STARTER_PRICING_3_BUTTON_TEXT: '立即购买',
+  STARTER_PRICING_3_PRICE_PERIOD: 'month',
+  STARTER_PRICING_3_HEADER: 'Function',
+  STARTER_PRICING_3_FEATURES: 'Secure Storage,Plus Plan, One Captcha Early Access,One Calendar Early Access,Easy Note,Priority Support,Ad Blocking and Security,Secure Core Server', // 英文逗号隔开
+  STARTER_PRICING_3_BUTTON_TEXT: 'Activate Team Advanced',
   STARTER_PRICING_3_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
+    '',
 
   // 首页用户测评区块
   STARTER_TESTIMONIALS_ENABLE: false, // 测评区块开关
