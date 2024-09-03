@@ -82,7 +82,7 @@ const CONFIG = {
   STARTER_PRICING_1_PRICE_CURRENCY: '$',
   STARTER_PRICING_1_PRICE_PERIOD: 'month',
   STARTER_PRICING_1_HEADER: 'Function',
-  STARTER_PRICING_1_FEATURES: 'Secure storage,One Captcha Early Access,One Calendar Early Access, Easy Note,priority customer service', // 英文逗号隔开
+  STARTER_PRICING_1_FEATURES: 'Secure storage,One Captcha Early Access,One Calendar Early Access,One Pass,Easy Note,priority customer service', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: 'Activate Team Essentials',
   STARTER_PRICING_1_BUTTON_URL:
     '',
@@ -93,7 +93,7 @@ const CONFIG = {
   STARTER_PRICING_2_PRICE_CURRENCY: '$',
   STARTER_PRICING_2_PRICE_PERIOD: 'month',
   STARTER_PRICING_2_HEADER: 'Function',
-  STARTER_PRICING_2_FEATURES: 'Secure Storage,Plus Plan,One Captcha Early Access,One Calendar Early Access,Easy Note,Priority Support,Secure Core Server', // 英文逗号隔开
+  STARTER_PRICING_2_FEATURES: 'Secure Storage,Plus Plan,One Captcha Early Access,One Calendar Early Access,One Pass,Easy Note,Priority Support,Secure Core Server', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: 'Activate Team Professional',
   STARTER_PRICING_2_BUTTON_URL:
     '',
@@ -103,7 +103,7 @@ const CONFIG = {
   STARTER_PRICING_3_PRICE_CURRENCY: '$',
   STARTER_PRICING_3_PRICE_PERIOD: 'month',
   STARTER_PRICING_3_HEADER: 'Function',
-  STARTER_PRICING_3_FEATURES: 'Secure Storage,Plus Plan, One Captcha Early Access,One Calendar Early Access,Easy Note,Priority Support,Ad Blocking and Security,Secure Core Server', // 英文逗号隔开
+  STARTER_PRICING_3_FEATURES: 'Secure Storage,Plus Plan, One Captcha Early Access,One Calendar Early Access,One Pass,Easy Note,Priority Support,Ad Blocking and Security,Secure Core Server', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: 'Activate Team Advanced',
   STARTER_PRICING_3_BUTTON_URL:
     '',
