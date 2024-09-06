@@ -20,7 +20,7 @@ const CONFIG = {
   STARTER_HERO_BUTTON_2_URL: '', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
-  STARTER_HERO_PREVIEW_IMAGE: 'https://cdn.xyehr.cn/images/about-image2.jpg', // 产品预览图 ，默认读取public目录下图片
+  STARTER_HERO_PREVIEW_IMAGE: 'https://cdn.xyehr.cn/images/banner.jpg', // 产品预览图 ，默认读取public目录下图片
 
   // 顶部右侧导航暗流
   STARTER_NAV_BUTTON_1_TEXT: 'About',
@@ -65,7 +65,7 @@ const CONFIG = {
   STARTER_ABOUT_BUTTON_TEXT: 'Learn more',
   STARTER_ABOUT_BUTTON_URL: '/about',
   STARTER_ABOUT_IMAGE_1: 'https://cdn.xyehr.cn/images/about-image1.jpg',
-  STARTER_ABOUT_IMAGE_2: 'https://cdn.xyehr.cn/images/banner.jpg',
+  STARTER_ABOUT_IMAGE_2: 'https://cdn.xyehr.cn/images/about-image2.jpg',
   STARTER_ABOUT_TIPS_1: 'Safe',
   STARTER_ABOUT_TIPS_2: 'Private',
   STARTER_ABOUT_TIPS_3: 'and free.',
