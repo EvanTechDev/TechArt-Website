@@ -280,7 +280,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: 'Protecting privacy from the root.',
+  STARTER_FOOTER_SLOGAN: 'Open a new world with code.',
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
@@ -289,19 +289,19 @@ const CONFIG = {
       LINK_GROUP: [
         {
           TITLE: 'One Captcha',
-          URL: '/post/air-captcha' 
+          URL: '/post/one-captcha' 
+        },
+        {
+          TITLE: 'One Calendar',
+          URL: 'https://onecalendar.us.kg'
         },
         {
           TITLE: 'One Pass',
-          URL: '/'
+          URL: 'https://pass.xyehr.cn'
         },
         {
-          TITLE: 'Easy Notes',
-          URL: ''
-        },
-        {
-          TITLE: 'Minecraft Python Edition',
-          URL: ''
+          TITLE: 'Easy Note',
+          URL: 'https://easynote.us.kg'
         }
       ]
     },
