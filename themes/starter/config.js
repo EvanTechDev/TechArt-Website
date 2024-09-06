@@ -11,7 +11,7 @@ const CONFIG = {
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
   STARTER_HERO_TITLE_1: 'Tech-Art', // 英雄区文字
-  STARTER_HERO_TITLE_2: 'Protecting privacy from the root.', // 英雄区文字
+  STARTER_HERO_TITLE_2: 'Open a new world with code.', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: 'About us', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
@@ -71,7 +71,7 @@ const CONFIG = {
   STARTER_ABOUT_TIPS_3: 'and free.',
 
   // 首页价格区块
-  STARTER_PRICING_ENABLE: true, // 价格区块开关
+  STARTER_PRICING_ENABLE: false, // 价格区块开关
   STARTER_PRICING_TITLE: 'Learn about our pricing',
   STARTER_PRICING_TEXT_1: 'Upgrade',
   STARTER_PRICING_TEXT_2:
