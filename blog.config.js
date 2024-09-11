@@ -112,7 +112,7 @@ const BLOG = {
   LAYOUT_MAPPINGS: {
     '-1': 'LayoutBase',
     '/': 'LayoutIndex',
-    '/blog': 'LayoutArchive',
+    '/archive': 'LayoutArchive',
     '/page/[page]': 'LayoutPostList',
     '/category/[category]': 'LayoutPostList',
     '/category/[category]/page/[page]': 'LayoutPostList',
