@@ -208,12 +208,12 @@ const CONFIG = {
       STARTER_TEAM_ITEM_AVATAR:
         'https://cdn.xyehr.cn/images/121920485.png',
       STARTER_TEAM_ITEM_NICKNAME: 'Happyleibniz',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Developer'
+      STARTER_TEAM_ITEM_DESCRIPTION: 'Founder & Developer'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: 'https://cdn.xyehr.cn/images/Image_1712299099839.jpg',
       STARTER_TEAM_ITEM_NICKNAME: 'Dev_Huang',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'sb'
+      STARTER_TEAM_ITEM_DESCRIPTION: 'Founder & Marketing & Developer'
     },
   ],
 
