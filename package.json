@@ -8,9 +8,9 @@
     "url": "https://github.com/tangly1024/NotionNext.git"
   },
   "author": {
-    "name": "techart",
-    "email": "www@xyehr.cn",
-    "url": "http://xyehr.cn"
+    "name": "tangly",
+    "email": "mail@tangly1024.com",
+    "url": "http://tangly1024.com"
   },
   "scripts": {
     "dev": "next dev",
