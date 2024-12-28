@@ -343,7 +343,7 @@ const CONFIG = {
         },
         {
           TITLE: 'Help & Docs',
-          URL: 'https://help.xyehr.cn/'
+          URL: 'https://docs.xyehr.cn/'
         },
         {
           TITLE: 'Live Help',
