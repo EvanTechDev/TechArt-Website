@@ -289,15 +289,15 @@ const CONFIG = {
       LINK_GROUP: [
         {
           TITLE: 'One Captcha',
-          URL: '/post/one-captcha' 
+          URL: '/blog/one-captcha' 
+        },
+        {
+          TITLE: 'Mail',
+          URL: '/blog/send-mail'
         },
         {
           TITLE: 'One Calendar',
           URL: 'https://onecalendar.us.kg'
-        },
-        {
-          TITLE: 'One Pass',
-          URL: 'https://pass.xyehr.cn'
         },
         {
           TITLE: 'Easy Note',
