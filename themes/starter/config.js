@@ -27,7 +27,7 @@ const CONFIG = {
   STARTER_NAV_BUTTON_1_URL: '/about',
 
   STARTER_NAV_BUTTON_2_TEXT: 'Products',
-  STARTER_NAV_BUTTON_2_URL: '/',
+  STARTER_NAV_BUTTON_2_URL: 'https://github.com/TechArt-Studio',
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
@@ -292,12 +292,16 @@ const CONFIG = {
           URL: '/blog/one-captcha' 
         },
         {
-          TITLE: 'Mail',
-          URL: '/blog/send-mail'
+          TITLE: 'EAuth',
+          URL: '/blog/eauth'
         },
         {
-          TITLE: 'One Calendar',
-          URL: 'https://onecalendar.us.kg'
+          TITLE: 'Open Wallet',
+          URL: '/blog/open-wallet'
+        },
+        {
+          TITLE: 'Mail',
+          URL: '/blog/send-mail'
         },
         {
           TITLE: 'Easy Note',
