@@ -211,7 +211,7 @@ const CONFIG = {
       STARTER_TEAM_ITEM_DESCRIPTION: 'Founder & Developer'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: 'https://cdn.xyehr.cn/images/Image_1712299099839.jpg',
+      STARTER_TEAM_ITEM_AVATAR: 'https://cdn.xyehr.cn/images/Evan.png',
       STARTER_TEAM_ITEM_NICKNAME: 'Evan Huang',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Founder & Marketing & Developer'
     },
