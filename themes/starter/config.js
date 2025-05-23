@@ -11,7 +11,7 @@ const CONFIG = {
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
   STARTER_HERO_TITLE_1: 'Tech-Art', // 英雄区文字
-  STARTER_HERO_TITLE_2: 'Open a new world with code.', // 英雄区文字
+  STARTER_HERO_TITLE_2: 'Meet One Calendar', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: 'About us', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
@@ -20,7 +20,7 @@ const CONFIG = {
   STARTER_HERO_BUTTON_2_URL: '', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
-  STARTER_HERO_PREVIEW_IMAGE: 'https://cdn.xyehr.cn/images/banner.jpg', // 产品预览图 ，默认读取public目录下图片
+  STARTER_HERO_PREVIEW_IMAGE: 'https://calendar.xyehr.cn/Banner.jpg', // 产品预览图 ，默认读取public目录下图片
 
   // 顶部右侧导航暗流
   STARTER_NAV_BUTTON_1_TEXT: 'About',
@@ -41,14 +41,14 @@ const CONFIG = {
   STARTER_FEATURE_1_BUTTON_TEXT: '', // 特性1
   STARTER_FEATURE_1_BUTTON_URL: '', // 特性1
 
-  STARTER_FEATURE_2_TITLE_1: 'Safe', // 特性2
-  STARTER_FEATURE_2_TEXT_1: 'It is very secure, uses end-to-end encryption, and the developers cannot view your data.', // 特性2
+  STARTER_FEATURE_2_TITLE_1: 'Fast', // 特性2
+  STARTER_FEATURE_2_TEXT_1: 'Use Vercel to quickly build in multiple regions around the world', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
     '', // 特性2
 
-  STARTER_FEATURE_3_TITLE_1: 'Private', // 特性3
-  STARTER_FEATURE_3_TEXT_1: 'Protect privacy, your private data is stored locally on your device.', // 特性3
+  STARTER_FEATURE_3_TITLE_1: 'Easy', // 特性3
+  STARTER_FEATURE_3_TEXT_1: 'Beautifully designed UI, easy to understand and operate', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '', // 特性3
   STARTER_FEATURE_3_BUTTON_URL: '', // 特性3
 
@@ -66,8 +66,8 @@ const CONFIG = {
   STARTER_ABOUT_BUTTON_URL: '/about',
   STARTER_ABOUT_IMAGE_1: 'https://cdn.xyehr.cn/images/about-image1.jpg',
   STARTER_ABOUT_IMAGE_2: 'https://cdn.xyehr.cn/images/about-image2.jpg',
-  STARTER_ABOUT_TIPS_1: 'Safe',
-  STARTER_ABOUT_TIPS_2: 'Private',
+  STARTER_ABOUT_TIPS_1: 'Fast',
+  STARTER_ABOUT_TIPS_2: 'Easy',
   STARTER_ABOUT_TIPS_3: 'and free.',
 
   // 首页价格区块
@@ -183,17 +183,17 @@ const CONFIG = {
   STARTER_FAQ_1_ANSWER:
     'Yes, it is free, ad-free, and open source.',
 
-  STARTER_FAQ_2_QUESTION: 'Why is it so safe?',
+  STARTER_FAQ_2_QUESTION: 'Why is it so fast?',
   STARTER_FAQ_2_ANSWER:
-    'It uses end-to-end encryption, and your data is stored locally on your device and cannot be viewed by us.',
+    'We use Vercel to deploy in multiple regions around the world and use Cloudflare CDN to cache data.',
 
   STARTER_FAQ_3_QUESTION: 'Is it ad-free?',
   STARTER_FAQ_3_ANSWER:
     'Yes, we believe that only without ads can we give users the best experience.',
 
-  STARTER_FAQ_4_QUESTION: 'Is the data encrypted in plain text?',
+  STARTER_FAQ_4_QUESTION: 'Is it easy to deploy your project?',
   STARTER_FAQ_4_ANSWER:
-    'No, we use end-to-end and obfuscated encryption when you request our website/app.',
+    'Of course! Deploying our project is very easy, you just need to follow the quick start section in the readme. If you have any questions, you can contact www@xyehr.cn',
 
   // 团队成员区块
   STARTER_TEAM_ENABLE: true, // 团队成员区块开关
@@ -211,7 +211,7 @@ const CONFIG = {
       STARTER_TEAM_ITEM_DESCRIPTION: 'Founder & Developer'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: 'https://cdn.xyehr.cn/images/Evan.png',
+      STARTER_TEAM_ITEM_AVATAR: 'https://e.xyehr.cn/Evan.jpg',
       STARTER_TEAM_ITEM_NICKNAME: 'Evan Huang',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Founder & Marketing & Developer'
     },
@@ -288,24 +288,12 @@ const CONFIG = {
       TITLE: 'Products',
       LINK_GROUP: [
         {
-          TITLE: 'One Captcha',
+          TITLE: 'One Calendar',
           URL: '/blog/one-captcha' 
-        },
-        {
-          TITLE: 'EAuth',
-          URL: '/blog/eauth'
-        },
-        {
-          TITLE: 'Open Wallet',
-          URL: '/blog/open-wallet'
         },
         {
           TITLE: 'Mail',
           URL: '/blog/send-mail'
-        },
-        {
-          TITLE: 'Easy Note',
-          URL: 'https://easynote.us.kg'
         }
       ]
     },
@@ -319,10 +307,6 @@ const CONFIG = {
         {
           TITLE: 'Join us',
           URL: '/join-us'
-        },
-        {
-          TITLE: 'Developer Center',
-          URL: 'https://x.com/TechArt_Dev'
         },
         { 
           TITLE: 'Open Source', 
