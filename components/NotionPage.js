@@ -87,7 +87,7 @@ const NotionPage = ({ post, className }) => {
   return (
     <div
       id='notion-article'
-      className={`mx-12 overflow-hidden ${className || ''}`}> /*mx-auto*/
+      className={`mx-auto px-12 overflow-hidden ${className || ''}`}> /*mx-auto*/
       <NotionRenderer
         recordMap={post?.blockMap}
         mapPageUrl={mapPageUrl}
