@@ -16,7 +16,7 @@ export const Blog = ({ posts }) => {
         <div className='container mx-auto'>
           {/* 区块标题文字 */}
           <div className='-mx-4 flex flex-wrap justify-center'>
-            <div className='w-full px-8'>
+            <div className='w-full px-4'>
               <div className='mx-auto mb-[60px] max-w-[485px] text-center'>
                 <span className='mb-2 block text-lg font-semibold text-primary'>
                   {siteConfig('STARTER_BLOG_TITLE', null, CONFIG)}
@@ -28,7 +28,7 @@ export const Blog = ({ posts }) => {
                   dangerouslySetInnerHTML={{
                     __html: siteConfig('STARTER_BLOG_TEXT_2', null, CONFIG)
                   }}
-                  className='text-base text-body-color dark:text-dark-6'></p>
+                  className='text-base text-body-color dark:text-dark-6 px-8'></p>
               </div>
             </div>
           </div>
